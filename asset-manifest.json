@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kunalmore/static/css/main.052d66f3.chunk.css",
+    "main.js": "/kunalmore/static/js/main.b25ff67d.chunk.js",
+    "main.js.map": "/kunalmore/static/js/main.b25ff67d.chunk.js.map",
+    "runtime-main.js": "/kunalmore/static/js/runtime-main.28a9ea7e.js",
+    "runtime-main.js.map": "/kunalmore/static/js/runtime-main.28a9ea7e.js.map",
+    "static/js/2.7e994eac.chunk.js": "/kunalmore/static/js/2.7e994eac.chunk.js",
+    "static/js/2.7e994eac.chunk.js.map": "/kunalmore/static/js/2.7e994eac.chunk.js.map",
+    "index.html": "/kunalmore/index.html",
+    "static/css/main.052d66f3.chunk.css.map": "/kunalmore/static/css/main.052d66f3.chunk.css.map",
+    "static/js/2.7e994eac.chunk.js.LICENSE.txt": "/kunalmore/static/js/2.7e994eac.chunk.js.LICENSE.txt",
+    "static/media/profile.jpg": "/kunalmore/static/media/profile.9b2a9820.jpg",
+    "static/media/resume.30c85c27.pdf": "/kunalmore/static/media/resume.30c85c27.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28a9ea7e.js",
+    "static/js/2.7e994eac.chunk.js",
+    "static/css/main.052d66f3.chunk.css",
+    "static/js/main.b25ff67d.chunk.js"
+  ]
+}
