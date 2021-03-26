@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/kunalmore/static/css/main.052d66f3.chunk.css",
-    "main.js": "/kunalmore/static/js/main.c4699a3c.chunk.js",
-    "main.js.map": "/kunalmore/static/js/main.c4699a3c.chunk.js.map",
+    "main.js": "/kunalmore/static/js/main.544c1856.chunk.js",
+    "main.js.map": "/kunalmore/static/js/main.544c1856.chunk.js.map",
     "runtime-main.js": "/kunalmore/static/js/runtime-main.28a9ea7e.js",
     "runtime-main.js.map": "/kunalmore/static/js/runtime-main.28a9ea7e.js.map",
     "static/js/2.7e994eac.chunk.js": "/kunalmore/static/js/2.7e994eac.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.28a9ea7e.js",
     "static/js/2.7e994eac.chunk.js",
     "static/css/main.052d66f3.chunk.css",
-    "static/js/main.c4699a3c.chunk.js"
+    "static/js/main.544c1856.chunk.js"
   ]
 }
